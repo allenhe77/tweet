@@ -1,0 +1,16 @@
+days
+endtweet
+after
+to - number of occurence: 2
+we - number of occurence: 2
+update
+media
+integrals - number of occurence: 2
+no
+they - number of occurence: 2
+of
+tell - number of occurence: 2
+Who - number of occurence: 2
+streaming
+are - number of occurence: 3
+improper - number of occurence: 2
